@@ -1,0 +1,106 @@
+.one {
+  color: blue;
+  border: 1px solid black;
+  width: 30%;
+  height: 80%;
+  position: absolute;
+  bottom: 30px;
+  left: 35%;
+  border-radius: 10px;
+  background: white;
+}
+.ttl {
+  position: absolute;
+  top: 35%;
+  left: 39%;
+  color: #34a0a4;
+}
+.des {
+  position: absolute;
+  top: 45%;
+  left: 16%;
+  color: #8b8c89;
+}
+.image {
+  height: 25%;
+  background-color: red;
+  border-radius: 8px;
+
+}
+.sizes {
+  width: 100%;
+  height: 100%;
+  border-radius: 8px;
+
+}
+.nd {
+  position: absolute;
+  left: 18%;
+  top: 55%;
+  color: #52b69a;
+
+}
+.nf {
+  position: absolute;
+  left: 70%;
+  top: 55%;
+  color: #52b69a;
+}
+.btn {
+  position: absolute;
+  top: 61%;
+  left: 15%;
+  color: #8b8c89;
+}
+
+.btm {
+  position: absolute;
+  top: 61%;
+  left: 65%;
+  color: #8b8c89;
+
+}
+.fb {
+  border-radius: 25px;
+  background: #34a0a4;
+  position: absolute;
+  top: 73%;
+  left: 10%;
+  width: 80%;
+  height: 7%;
+  padding: 1px 0;
+  border-color: #ffffff00;
+
+}
+.bio {
+  position: absolute;
+  top: 80%;
+  color: #8b8c89;
+
+}
+.dot {
+  height: 145px;
+  width: 145px;
+  background: white;
+  border-radius: 50%;
+  display: inline-block;
+  position: absolute;
+  top: 10%;
+  left: 35%;
+  box-shadow: 0 0 10px gray;
+}
+
+.ck {
+  color: #e7ecef;
+  font-size: 20px;
+  text-align: center;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.size {
+  width: 95%;
+  position: absolute;
+  top: 3%;
+  left: 2.5%;
+}

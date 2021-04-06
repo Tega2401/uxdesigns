@@ -1,0 +1,36 @@
+.header {
+
+}
+
+.first {
+  position: absolute;
+  left: 31%;
+  top: 3%;
+  font-size: 22px;
+}
+.second {
+  position: absolute;
+  left: 41%;
+  top: 3%;
+  font-size: 22px;
+}
+.third {
+  position: absolute;
+  left: 55%;
+  top: 3%;
+  font-size: 22px;
+}
+.fourth {
+  position: absolute;
+  left: 65%;
+  top: 3%;
+  font-size: 22px;
+}
+
+.par {
+  text-align: center;
+}
+.home {
+  position: absolute;
+  float: left;
+}
