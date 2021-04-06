@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/uxdesigns/static/css/main.1e765ee4.chunk.css",
+    "main.js": "/uxdesigns/static/js/main.6eb79fc6.chunk.js",
+    "main.js.map": "/uxdesigns/static/js/main.6eb79fc6.chunk.js.map",
+    "runtime-main.js": "/uxdesigns/static/js/runtime-main.cca18f7f.js",
+    "runtime-main.js.map": "/uxdesigns/static/js/runtime-main.cca18f7f.js.map",
+    "static/js/2.bfdea505.chunk.js": "/uxdesigns/static/js/2.bfdea505.chunk.js",
+    "static/js/2.bfdea505.chunk.js.map": "/uxdesigns/static/js/2.bfdea505.chunk.js.map",
+    "static/js/3.38caca7c.chunk.js": "/uxdesigns/static/js/3.38caca7c.chunk.js",
+    "static/js/3.38caca7c.chunk.js.map": "/uxdesigns/static/js/3.38caca7c.chunk.js.map",
+    "index.html": "/uxdesigns/index.html",
+    "static/css/main.1e765ee4.chunk.css.map": "/uxdesigns/static/css/main.1e765ee4.chunk.css.map",
+    "static/js/2.bfdea505.chunk.js.LICENSE.txt": "/uxdesigns/static/js/2.bfdea505.chunk.js.LICENSE.txt",
+    "static/media/java.a2a16f08.png": "/uxdesigns/static/media/java.a2a16f08.png",
+    "static/media/logo.91d44db2.png": "/uxdesigns/static/media/logo.91d44db2.png",
+    "static/media/node.e71346fe.png": "/uxdesigns/static/media/node.e71346fe.png",
+    "static/media/rjs.5145800e.png": "/uxdesigns/static/media/rjs.5145800e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cca18f7f.js",
+    "static/js/2.bfdea505.chunk.js",
+    "static/css/main.1e765ee4.chunk.css",
+    "static/js/main.6eb79fc6.chunk.js"
+  ]
+}
